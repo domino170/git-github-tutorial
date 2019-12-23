@@ -2,12 +2,10 @@ This is some code
 
 I will write some code in Java
 
+
 New technologies:
 React, Angular
-<<<<<<< HEAD
-Adding some more info
-=======
+
 Adding some changes before merging branches
->>>>>>> development
 
-
+Java, Docker, etc.
