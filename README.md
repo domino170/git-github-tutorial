@@ -2,6 +2,8 @@
 This is a sample project for learning purpose
 
 
+## This file is added for merging
+
 ## Introduction
 Some pictures
 
