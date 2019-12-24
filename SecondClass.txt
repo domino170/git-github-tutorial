@@ -1,3 +1,5 @@
 Changing files for merging
 
 something
+
+Adding some changes for Rebase in Second class
