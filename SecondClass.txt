@@ -4,4 +4,8 @@ something
 
 Adding some changes for Rebase
 
+
 Changing file in Master
+
+Changing file in newFeatureBranch
+
