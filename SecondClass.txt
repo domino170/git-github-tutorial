@@ -10,3 +10,6 @@ Changing file in Master
 Changing file in newFeatureBranch
 
 This is a change added in GitHub
+
+
+Adding second change for stash
