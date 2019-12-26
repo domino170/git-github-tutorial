@@ -15,3 +15,5 @@ Some more information that can be usefull
 
 # Additional changes
 Here are some changes for rebase
+
+# Change for GitHub Rebase
