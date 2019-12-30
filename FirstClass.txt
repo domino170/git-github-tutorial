@@ -12,3 +12,5 @@ Java, Docker, etc.
 
 
 First change for stashing
+
+Adding shanges to be stashed with multiple stash
